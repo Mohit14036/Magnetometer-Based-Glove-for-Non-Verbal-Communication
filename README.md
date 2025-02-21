@@ -1,1 +1,1 @@
-# Assistive-Gloves-for-Non-Verbal-Communication
+# Assistive Gloves for Non-Verbal Communication
