@@ -1,4 +1,4 @@
-# Assistive Gloves for Non-Verbal Communication (Using Magnetometers)
+# Assistive Glove for Non-Verbal Communication (Using Magnetometers)
 Assistive Gloves for Non-Verbal Communication is a wearable device designed to help individuals with speech impairments communicate through sign language. By using magnetometers and neodymium magnets, the system detects hand gestures and converts them into speech output.
 ## How It Works
 1. Magnetic Field Detection: Each fingertip has a small neodymium magnet.
