@@ -1,1 +1,12 @@
+📦 Hardware Components
+1. ESP32 or Arduino Board – For processing and communication.
+2. 2 Magnetometers – To detect magnetic field variations.
+3. 5 Neodymium Magnets (Small size) – Attached to the fingertips.
+4. HW617 Mux (For taking inputs from 2 magnetometers).
+5. Hand Glove – To hold the magnets and sensors.
+6. Breadboard – For testing connections.
+7. Jumper Wires – For circuit connections.
+8. Speaker – For speech output (optional).
+
+
 
