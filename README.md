@@ -69,4 +69,12 @@ Assistive-glove/
 
 ```
 ## Demo Video
-Watch the demonstration:[link]
+Watch the demonstration:[`link`](https://youtu.be/eLQuv3eyvu0?feature=shared)
+## Notes
+- ESP32 must be connected to a laptop for processing.
+- Do not open the Arduino Serial Monitor while running the Python script.
+
+## Future Improvements
+- Adding Bluetooth connectivity for mobile integration.
+- Increasing the number of recognized signs.
+- Implementing machine learning for adaptive sign detection.
