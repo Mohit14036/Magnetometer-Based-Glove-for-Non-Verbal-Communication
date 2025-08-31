@@ -78,3 +78,7 @@ Watch the demonstration:[`link`](https://youtu.be/eLQuv3eyvu0?feature=shared)
 - Adding Bluetooth connectivity for mobile integration.
 - Increasing the number of recognized signs.
 - Implementing machine learning for adaptive sign detection.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
